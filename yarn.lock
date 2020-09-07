@@ -5628,7 +5628,7 @@ nuxt-buefy@^0.3.31:
   dependencies:
     buefy "^0.8.20"
 
-nuxt@^2.13.0:
+nuxt@^2.14.4:
   version "2.14.4"
   resolved "https://registry.yarnpkg.com/nuxt/-/nuxt-2.14.4.tgz#c12ee6060aa7660cdeed4ef9efdcefc4472077d9"
   integrity sha512-s6+VePRUBjOU2huJaevE3M19qOblXm9n7BtSxeWEFbDPomOOtdQqUVKbFJrtjgGPETpDrZ6FUKI94/0rkPwNcg==
